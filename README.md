@@ -1,2 +1,1 @@
-Daniel Shim
-Benthan Vu
+By Daniel Shim, Joshua Widjaja, Benthan Vu
